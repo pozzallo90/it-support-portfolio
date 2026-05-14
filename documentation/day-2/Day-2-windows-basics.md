@@ -42,14 +42,14 @@ The network adapter allows the computer to communicate with the network.
 
 ## Screenshots
 
-![Hostname](screenshots/day2-hostname.png)
+![Hostname](screenshots/day2/day2-hostname.png)
 
-![Whoami](screenshots/day2-whoami.png)
+![Whoami](screenshots/day2/day2-whoami.png)
 
-![IPConfig](screenshots/day2-ipconfig.png)
+![IPConfig](screenshots/day2/day2-ipconfig.png)
 
-![Ping](screenshots/day2-ping.png)
+![Ping](screenshots/day2/day2-ping.png)
 
-![Task Manager](screenshots/day2-taskmanager.png)
+![Task Manager](screenshots/day2/day2-taskmanager.png)
 
-![Network Settings](screenshots/day2-network-settings.png)
+![Network Settings](screenshots/day2/day2-network-settings.png)
